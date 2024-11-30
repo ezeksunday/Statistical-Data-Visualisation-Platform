@@ -1,0 +1,30 @@
+
+*******APP USAGE*******
+The app is an offline and online Data visualisation platform which allows one to visualise data online and offline
+
+The app contains various plot types ranging from 2-dimensional plots to 3 dimensional plots. 
+The platform allows you to select a plot type from the menu bars and then click on the plot button to visualise the selected plot.
+
+HOW TO USE A PLOT
+1- select a file or enter url of file to be downloaded using the search bar above. To select a file from your local machine,
+    Choose on the open file button either from the menu by the left panel or using the file menu to select upload file
+
+2- For 2 dimensional plots, select x and y column pending on the plot type. You can choose a hue column which is optional
+
+3- For 3 dimensional plots, select x,y and z depending on the selected 3d plot type. NOTE- For 3-d plots, all selected values must be numerical
+
+4- To see files you've recently worked with, click on the recent files button to see all the files you have previously opened and worked with.
+
+
+HOW TO VIEW STATISTICAL DETAILS OF A SELECTED DATASET
+To view the statistical details of a selected dataset, from the menu bar, choose the desired statistical measure. This measures are displayed under the statistical details 
+menu by the left which is together with the attributes details which provides information about the columns present in the selected dataset.
+
+
+
+HOW TO PERFORM PREPROCESSING OF DATA
+
+To perform preprocessing, select a preprocessing tool from the pre process data menu. After selection input values (where required) and click on ok. Preprocessed step will be displayed in the table presented below graph display
+
+
+
