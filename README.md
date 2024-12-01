@@ -43,8 +43,9 @@ Tkinter – For GUI interface development
 . customtkinter – Used alongside tkinter module for beatified interface  
 . ttkthemes – To add more beauty to the interface
 
-PREPROCESSING TEST RESULT  
+PREPROCESSING TEST RESULT (Using Cleveland Heart Disease Dataset)  
 
+<img width="566" alt="Screenshot 2024-12-01 at 12 51 17" src="https://github.com/user-attachments/assets/66ee7fd1-aa7d-49bf-b414-1fc122093e3b">
 
 VISUALIZATION TEST RESULT USING CLEVELAND HEART DISEASE DATASET
 
