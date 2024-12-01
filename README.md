@@ -60,4 +60,7 @@ HEATMAP SHOWIMNG RELATIONSHIP BETWEEN EACH ATTRIBUTE TO THE CONDITION OF HEART D
 <img width="768" alt="Screenshot 2024-12-01 at 13 30 47" src="https://github.com/user-attachments/assets/0b639694-4f95-4915-b3ef-813d90e6a363">  
 
 SCATTER PLOT SHOWING AGE RANGE WITH HIGHEST LEVEL OF CHOLESTEROL  
+<img width="767" alt="Screenshot 2024-12-01 at 13 38 35" src="https://github.com/user-attachments/assets/b79b7492-07f7-4991-be37-9ce1afff2715">  
+
+HISTOGRAM PLOT SHOWING AGE COUNT BASED ON GENDER  
 
