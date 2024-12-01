@@ -13,3 +13,39 @@ To view the statistical details of a selected dataset, from the menu bar, choose
 menu by the left which is together with the attributes details which provides information about the columns present in the selected dataset.
 HOW TO PERFORM PREPROCESSING OF DATA
 To perform preprocessing, select a preprocessing tool from the pre process data menu. After selection input values (where required) and click on ok. Preprocessed step will be displayed in the table presented below graph display
+
+AIMS
+As many visualization platforms are been developed, some of these platforms are expensive to work with and has limited support in terms of providing users with much needed freedom when conducting analysis. The paper aims at developing an easy to use data visualization platform that supports data exploration, preprocessing, and visualization both in 2-Dimensional and 3-Dimensional views for any imported dataset and also provide users with much needed flexibility when working with data. 
+
+OBJECTIVES
+Development of an interface that is time and cost efficient 
+Development of a platform that supports both online and offline data visualization. 
+Development of an interface that supports data in different formats. 
+Development of an interface that provides flexibility to users in terms of pre processing data and interacting with data 
+Development of an interface that supports data visualization (both 2-d and 3-d dimensions)
+
+LIMITATIONS OF EXISTING WORKS
+1. Limited flexibility in terms of providing users with adequate interaction with data
+2. Most platforms are Cost-bound
+3. Some are online based (SAP Lumira, Microsoft power BI, Tableau)
+
+PROGRAMMING TOOLS  USED
+    Programming language – Python programming (Object oriented programming)
+    Libraries:
+        Tkinter – For GUI interface development
+		Numpy – For data manipulation
+		Pandas – For file (datasets) handling and manipulation
+		Matplotlib – For development of visualization techniques
+		Seaborn – For development of visualization techniques (Mostly 2-d views)
+		customtkinter – Used alongside tkinter module for beatified interface
+		ttkthemes – To add more beauty to the interface
+
+Visualization test Result (Using Cleveland heart disease dataset)
+
+
+
+
+
+
+
+
