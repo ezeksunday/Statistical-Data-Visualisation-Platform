@@ -40,7 +40,9 @@ PROGRAMMING TOOLS  USED
 		customtkinter – Used alongside tkinter module for beatified interface
 		ttkthemes – To add more beauty to the interface
 
-Visualization test Result (Using Cleveland heart disease dataset)
+VISUALIZATION TEST RESULT USING CLEVELAND HEART DISEASE DATASET
+
+<img width="561" alt="Screenshot 2024-12-01 at 11 28 03" src="https://github.com/user-attachments/assets/91b5f716-34bd-4c7b-b96f-643d34172f2b">
 
 
 
