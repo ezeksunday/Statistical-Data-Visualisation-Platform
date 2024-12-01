@@ -41,7 +41,7 @@ PROGRAMMING TOOLS  USED
 		ttkthemes – To add more beauty to the interface
 
 Visualization test Result (Using Cleveland heart disease dataset)
-<img width="561" alt="Screenshot 2024-12-01 at 11 28 03" src="https://github.com/user-attachments/assets/97d743ee-3929-48be-b022-4ad6ffee7dc5">
+
 
 
 
