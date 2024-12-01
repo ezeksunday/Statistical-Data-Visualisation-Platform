@@ -63,4 +63,6 @@ SCATTER PLOT SHOWING AGE RANGE WITH HIGHEST LEVEL OF CHOLESTEROL
 <img width="767" alt="Screenshot 2024-12-01 at 13 38 35" src="https://github.com/user-attachments/assets/b79b7492-07f7-4991-be37-9ce1afff2715">  
 
 HISTOGRAM PLOT SHOWING AGE COUNT BASED ON GENDER  
+<img width="769" alt="Screenshot 2024-12-01 at 13 45 29" src="https://github.com/user-attachments/assets/c65e4ca5-6d3a-4419-b93a-b9cd37eacb39">  
+
 
