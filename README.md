@@ -57,4 +57,7 @@ VISUALIZATION TEST RESULT
 <img width="533" alt="Screenshot 2024-12-01 at 12 47 45" src="https://github.com/user-attachments/assets/c5acdf64-7e84-4c78-88b5-f82af8e97479">  
 
 HEATMAP SHOWIMNG RELATIONSHIP BETWEEN EACH ATTRIBUTE TO THE CONDITION OF HEART DISEASE  
+<img width="768" alt="Screenshot 2024-12-01 at 13 30 47" src="https://github.com/user-attachments/assets/0b639694-4f95-4915-b3ef-813d90e6a363">  
+
+SCATTER PLOT SHOWING AGE RANGE WITH HIGHEST LEVEL OF CHOLESTEROL  
 
