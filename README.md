@@ -54,4 +54,7 @@ VISUALIZATION TEST RESULT
 
 <img width="529" alt="Screenshot 2024-12-01 at 11 28 25" src="https://github.com/user-attachments/assets/e5837ef7-add9-499b-b87e-3db746f38b56">  
 
-<img width="533" alt="Screenshot 2024-12-01 at 12 47 45" src="https://github.com/user-attachments/assets/c5acdf64-7e84-4c78-88b5-f82af8e97479">
+<img width="533" alt="Screenshot 2024-12-01 at 12 47 45" src="https://github.com/user-attachments/assets/c5acdf64-7e84-4c78-88b5-f82af8e97479">  
+
+HEATMAP SHOWIMNG RELATIONSHIP BETWEEN EACH ATTRIBUTE TO THE CONDITION OF HEART DISEASE  
+
