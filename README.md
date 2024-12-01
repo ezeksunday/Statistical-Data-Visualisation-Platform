@@ -46,8 +46,9 @@ Tkinter – For GUI interface development
 PREPROCESSING TEST RESULT (Using Cleveland Heart Disease Dataset)  
 
 <img width="566" alt="Screenshot 2024-12-01 at 12 51 17" src="https://github.com/user-attachments/assets/66ee7fd1-aa7d-49bf-b414-1fc122093e3b">
-
-VISUALIZATION TEST RESULT USING CLEVELAND HEART DISEASE DATASET
+  
+VISUALIZATION TEST RESULT  
+(Using Cleveland Heart Disease Dataset)
 
 <img width="561" alt="Screenshot 2024-12-01 at 11 28 03" src="https://github.com/user-attachments/assets/7afff14d-5fab-4692-b998-1ea4b8d1ff64">  
 
